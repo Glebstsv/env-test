@@ -1,0 +1,1 @@
+![CI](https://github.com/<Glebsrv>/<env-test>/actions/workflows/web.yml/badge.svg)
